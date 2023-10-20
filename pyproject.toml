@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "human-typer"
+version = "0.1.0"
+description = ""
+authors = ["SW GA SUKI DA TO SAKABITAI <timothy_shee@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+scipy = "1.5.4"
+selenium = "^4.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
