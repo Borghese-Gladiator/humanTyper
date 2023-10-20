@@ -9,6 +9,7 @@ readme = "README.md"
 python = ">=3.9,<3.13"
 scipy = "1.5.4"
 selenium = "^4.13.0"
+webdriver-manager = "^4.0.1"
 
 
 [build-system]
